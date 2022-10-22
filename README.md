@@ -1,3 +1,3 @@
-Welcome to my Github profile!
+## Welcome to my Github profile!
 
 Environmental engineer with diverse experience ranging from design and modeling of water and wastewater treatment plants and networks to academic teaching and research. Specifically, I am most interested in using mathematical modeling, computer simulations, and programming in solving problems. I also developed strong story-telling skills through a variety of experiences such as software teaching to professionals, academic teaching, and research presentations. As I believe in life-long learning, I have become passionate about data science, machine learning, and other cutting-edge technologies. My goal is to utilize mathematical modeling, data science, and my domain knowledge in water-related problem-solving and even extend to other domains.
